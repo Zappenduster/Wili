@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wili</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    // Buttons und Textfelder        <string name="button_login">Einloggen</string>
+    <string name="button_register">Registrieren</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_wishlists">Wunschlisten</string>
+    <string name="button_mywishlist">Meine Wunschliste</string>
+    <string name="button_deletewish">Wunsch löschen</string>
+    <string name="button_addwish">Wunsch hinzufügen</string>
+    <string name="button_addphoto">Foto hinzufügen</string>
+    <string name="button_deletephoto">Foto löschen</string>
+    <string name="textfield_wishname">Name des Wunsches</string>
+    <string name="textfield_link">Link</string>
+    <string name="textfield_commentary">Kommentar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+
+</resources>
